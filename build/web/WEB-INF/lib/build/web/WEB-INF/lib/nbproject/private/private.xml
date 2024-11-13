@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/dao/WishlistDao.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/RegisterServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/LogoutServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/webapp/Components/navbar.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/login.jsp</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/AddOperationServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/webapp/error_exception.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/index.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/order.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/products.jsp</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/dao/CartDao.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/UpdateOrderServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/webapp/wishlist.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/adminlogin.jsp</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/dao/UserDao.java</file>
+            <file>file:/E:/DigiShop/src/main/webapp/register.jsp</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/dao/ProductDao.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/helper/OrderIdGenerator.java</file>
+            <file>file:/E:/DigiShop/src/main/webapp/viewProduct.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/cart.jsp</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/dao/AdminDao.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/LoginServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/webapp/display_products.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/display_orders.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/display_users.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/display_category.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/personalInfo.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/error_page.jsp</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/dao/OrderDao.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/helper/ConnectionProvider.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/CartOperationServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/webapp/profile.jsp</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/entities/Order.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/entities/Product.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/entities/Wishlist.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/dao/OrderedProductDao.java</file>
+            <file>file:/E:/DigiShop/src/main/webapp/update_category.jsp</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/AdminServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/UpdateUserServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/AddToCartServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/WishlistServlet.java</file>
+            <file>file:/E:/DigiShop/src/main/webapp/admin.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/update_product.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/checkout.jsp</file>
+            <file>file:/E:/DigiShop/src/main/webapp/display_admin.jsp</file>
+            <file>file:/E:/DigiShop/src/main/java/com/DigiShop/servlets/OrderOperationServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
